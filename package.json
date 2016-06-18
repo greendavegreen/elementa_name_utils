@@ -1,0 +1,11 @@
+{
+  "name": "elementa_name_utils",
+  "version": "0.1.0",
+  "description": "utils for working with structured journal asset names",
+  "main": "nameUtils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dave Green",
+  "license": "ISC"
+}
