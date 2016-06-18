@@ -4,10 +4,14 @@
   "description": "utils for working with structured journal asset names",
   "main": "nameUtils.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "readme": "node ./node_modules/.bin/node-readme"
   },
   "author": "Dave Green",
   "license": "ISC",
+  "dependencies": {
+    "node-readme": "^0.1.9"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/greendavegreen/elementa_name_utils.git"
