@@ -1,6 +1,6 @@
 {
   "name": "elementa_name_utils",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "utils for working with structured journal asset names",
   "main": "nameUtils.js",
   "scripts": {
@@ -8,9 +8,8 @@
   },
   "author": "Dave Green",
   "license": "ISC",
-  "repository" :
-  {
-    "type" : "git",
-    "url" : "https://github.com/greendavegreen/elementa_name_utils.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/greendavegreen/elementa_name_utils.git"
   }
 }
