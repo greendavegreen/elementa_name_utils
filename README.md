@@ -25,13 +25,15 @@ utils for working with structured journal asset names
 
 ## Scripts
 
- - **npm run test** : `echo "Error: no test specified" && exit 1`
+ - **npm run test** : `mocha test/test.js`
  - **npm run readme** : `node ./node_modules/.bin/node-readme`
 
 ## Dependencies
 
 Package | Version | Dev
 --- |:---:|:---:
+[chai](https://www.npmjs.com/package/chai) | ^3.5.0 | ✖
+[mocha](https://www.npmjs.com/package/mocha) | ^2.5.3 | ✖
 [node-readme](https://www.npmjs.com/package/node-readme) | ^0.1.9 | ✖
 
 
